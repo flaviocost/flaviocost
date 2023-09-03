@@ -1,6 +1,6 @@
 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.webp" type="image/webp">
-  <img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="25%" height="25%">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
+  <img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="25%" height="25%">
 </picture>
 <div align="center">
   
@@ -34,10 +34,7 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/?r=1)
 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f985/512.webp" type="image/webp">
-  <img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f985/512.gif" alt="🦅" width="28%" height="28%">
-</picture>
+
 
 #### Contacts:
 
