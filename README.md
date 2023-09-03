@@ -39,4 +39,9 @@
 [![Linkdein](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-felipe-295951246/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:contato.flaviofcdcosta@recife.pe.senac.br))
 
+<br> 
+
+<img align="left" alt="Ruy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=flaviocost&theme=vue&show_icons=true&hide_border=true" />
+<img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
