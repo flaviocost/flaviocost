@@ -1,9 +1,12 @@
-<a href="https://gifer.com/en/Dtf">
-  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=25% height=20% />
-</a>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.webp" type="image/webp">
+  <img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="25%" height="25%">
+</picture>
 <div align="center">
   
-## Hi there, I'm Flavio Costa! 👋 
+## Hi there, I'm Flavio Costa! <picture>
+  
+
 
 <br>
   
