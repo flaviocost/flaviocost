@@ -41,7 +41,7 @@
 
 <br> 
 
-<img align="left" alt="Ruy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=flaviocost&theme=vue&show_icons=true&hide_border=true" />
-<img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&bg_color=00000000)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=footer"/>
