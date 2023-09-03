@@ -6,7 +6,7 @@
 Hi there, I'm Flavio Costa! 👋 
   <b>
 
-  [![Discord DM](https://img.shields.io/badge/Discord-Ruyy%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1140431012178968659/)
+  [![Discord DM](https://img.shields.io/badge/Discord-Flavio%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/996909737163620394/)
   
  <p>
   My name is <strong>Flavio</strong>, I'm 19 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures and challenges.
