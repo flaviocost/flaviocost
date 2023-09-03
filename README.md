@@ -2,10 +2,13 @@
   <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=25% height=20% />
 </a>
 <div align="center">
+## Hi there, I'm Flavio Costa! 👋 
   
- 
- &nbsp;
- &nbsp;
+ <p>
+  My name is <strong>Flavio</strong>, I'm 19 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures and challenges.
+<br>
+
+> "*"If you want to make an apple pie from scratch, you must first invent the universe.".*" - Carl Sagan
 
 #### Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
