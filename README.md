@@ -33,7 +33,7 @@ Hi there, I'm Flavio Costa! 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisisflavioo/)
 [![Discord DM](https://img.shields.io/badge/Discord-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/996909737163620394/)
 [![Linkdein](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-felipe-295951246/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:flaviofcdcosta@recife.pe.senac.br))
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:contato.flaviofcdcosta@recife.pe.senac.br))
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
