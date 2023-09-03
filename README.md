@@ -3,7 +3,6 @@
 </a>
 <div align="center">
   
-[![Discord DM](https://img.shields.io/badge/Discord-flaviocost%6910-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/996909737163620394/)
  
  &nbsp;
  &nbsp;
