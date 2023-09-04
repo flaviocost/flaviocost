@@ -28,6 +28,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](linux.org)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+<div align="right">
+<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Flavio">
+</div>
+
+
+
 #### Workstation Tools:
 [![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
