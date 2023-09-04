@@ -28,19 +28,11 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](linux.org)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-
-
 #### Workstation Tools:
 [![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/?r=1)
-
-<div align="right">
-<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Flavio">
-</div>
-
-
 
 #### Contacts:
 
@@ -52,6 +44,5 @@
 <br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&bg_color=00000000)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=footer"/>
