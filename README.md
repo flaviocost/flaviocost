@@ -29,7 +29,7 @@
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <div align="right">
-<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador Flavio">
+<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Flavio">
 </div>
 
 
