@@ -18,6 +18,9 @@
 > "*If you want to make an apple pie from scratch, you must first invent the universe.*" - Carl Sagan
 </div>
 
+<div align="right">
+<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Flavio">
+</div>
 
 
 <br>
@@ -27,10 +30,6 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](linux.org)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-<div align="right">
-<img src="https://github.com/flaviocost/flaviocost/assets/143962101/d503cb10-6cf0-4442-90d5-6621c0e8b87b" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Flavio">
-</div>
 
 
 
