@@ -1,26 +1,18 @@
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
-  <img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="25%" height="25%">
-</picture>
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=header"/>
   
-## Hi there, I'm Flavio Costa! <picture>
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F7FEB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Felipe;I'm+19+years+old;I+am+from+Recife,+PE;I+study+software+development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<br>
-  
- <p>
-  My name is <strong>Flavio</strong>, I'm 19 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures and challenges.
-   
-<br>
-
-> "*If you want to make an apple pie from scratch, you must first invent the universe.*" - Carl Sagan
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&count_private=true&hide_border=true&title_color=2F7FEB&icon_color=2F7FEB&text_color=c9d1d9&bg_color=0d1117" alt="Flávio Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&hide_border=true&title_color=2F7FEB&text_color=3272c9&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flaviocost&bg_color=000000&color=2F7FEB&line=2F7FEB&point=3272c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flaviocost&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 #### Studying in this moment:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -41,8 +33,9 @@
 [![Linkdein](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-felipe-295951246/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:contato.flaviofcdcosta@recife.pe.senac.br))
 
-<br> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&bg_color=00000000)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{flaviocost}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=footer"/>
