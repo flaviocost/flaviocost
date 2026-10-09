@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=NOME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CARGO&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Flávio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CARGO&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
 
 <a href="https://github.com/flaviocost">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Primeira+frase+sobre+voc%C3%AA;Segunda+frase;Terceira+frase" alt="Typing animation" />
@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=7AA2FF" alt="LinkedIn"/></a>
-<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
+<a href="https://instagram.com/flaviocost"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=flaviocost&label=Visitas&color=2F5AA8&style=for-the-badge" alt="Visitas"/>
 
 </div>
