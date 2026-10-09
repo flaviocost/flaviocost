@@ -1,31 +1,115 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F7FEB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Felipe;I'm+22+years+old;I+am+from+Recife,+PE;I+study+software+development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=NOME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CARGO&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
 
+<a href="https://github.com/flaviocost">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Primeira+frase+sobre+voc%C3%AA;Segunda+frase;Terceira+frase" alt="Typing animation" />
+</a>
 
-![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviocost&theme=zenburn)
+<br/>
 
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=7AA2FF" alt="LinkedIn"/></a>
+<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=flaviocost&label=Visitas&color=2F5AA8&style=for-the-badge" alt="Visitas"/>
 
-#### Studying in this moment:
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](linux.org)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+</div>
 
-#### Workstation Tools:
-[![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/?r=1)
+<br/>
 
-#### Contacts:
+## ✦ Sobre mim
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_flaviocost/)
-[![Discord DM](https://img.shields.io/badge/Discord-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/996909737163620394/)
-[![Linkdein](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-felipe-295951246/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:contato.flaviofcdcosta@recife.pe.senac.br))
+<pre>
+> nome      : NOME
+> área      : CARGO
+> aprendendo: SQL
+> escrevo   : programas em Java
+> contato   : LinkedIn ou Instagram, links acima
+</pre>
 
+<br/>
 
+## ✦ Tecnologias
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F7FEB&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Tecnologias" />
+
+</div>
+
+<br/>
+
+## ✦ Projetos
+
+<div align="center">
+
+<a href="https://github.com/flaviocost/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-1&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 1" />
+</a>
+<a href="https://github.com/flaviocost/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-2&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 2" />
+</a>
+
+<a href="https://github.com/flaviocost/REPO-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-3&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 3" />
+</a>
+<a href="https://github.com/flaviocost/REPO-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-4&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 4" />
+</a>
+
+</div>
+
+<br/>
+
+## ✦ Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&border_color=1E3A6E" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=flaviocost&background=0A1F44&ring=7AA2FF&fire=7AA2FF&currStreakLabel=7AA2FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=1E3A6E" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviocost&bg_color=0A1F44&color=7AA2FF&line=7AA2FF&point=FFFFFF&area=true&area_color=2F5AA8&hide_border=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+<br/>
+
+## ✦ Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=flaviocost&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+## ✦ Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviocost/flaviocost/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviocost/flaviocost/output/github-snake.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/flaviocost/flaviocost/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## ✦ Vamos conversar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-2F5AA8?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5AA8,100:0A1F44&height=110&section=footer&text=feito%20com%20caf%C3%A9%20e%20curiosidade&fontSize=16&fontColor=FFFFFF&fontAlignY=70" alt="Rodapé" width="100%" />
