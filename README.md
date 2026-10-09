@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Flávio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CARGO&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=NOME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Rumo%20a%20Engenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
+
+<a href="https://github.com/flaviocost">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Rumo+a+Engenheiro+de+Software;Escrevo+programas+em+Java;Aprendendo+SQL" alt="Typing animation" />
+</a>
 
 <a href="https://github.com/flaviocost">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Primeira+frase+sobre+voc%C3%AA;Segunda+frase;Terceira+frase" alt="Typing animation" />
