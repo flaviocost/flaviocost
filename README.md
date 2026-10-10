@@ -25,7 +25,7 @@
 > nome      : Flávio Felipe
 > área      : Desenvolvimento de software
 > linguagem : Java
-> aprendendo: SQL
+> aprendendo: SQL e Linux
 > objetivo  : Engenheiro de software
 > contato   : LinkedIn ou Instagram, links acima
 </pre>
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=java,linux,mysql&theme=dark" alt="Tecnologias" />
 
 </div>
 
