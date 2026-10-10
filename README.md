@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/flavio-felipe-295951246/"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=7AA2FF" alt="LinkedIn"/></a>
 <a href="https://instagram.com/_flaviocost"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
-<img src="https://komarev.com/ghpvc/?username=flaviocost&label=Visitas&color=2F5AA8&style=for-the-badge" alt="Visitas"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fflaviocost&label=Visitas&labelColor=%230A1F44&countColor=%232F5AA8&style=for-the-badge" alt="Visitas"/>
 
 </div>
 
@@ -111,8 +111,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
-<a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-2F5AA8?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
+<a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/flavio-felipe-295951246/)"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://instagram.com/_flaviocost"><img src="https://img.shields.io/badge/Instagram-2F5AA8?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
 
 </div>
 
