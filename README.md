@@ -81,15 +81,6 @@
 
 </div>
 
-<br/>
-
-## ✦ Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=flaviocost&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
 
 <br/>
 
@@ -111,7 +102,7 @@
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/flavio-felipe-295951246/)"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/flavio-felipe-295951246/"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
 <a href="https://instagram.com/_flaviocost"><img src="https://img.shields.io/badge/Instagram-2F5AA8?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
 
 </div>
