@@ -7,7 +7,6 @@
 </a>
 
 <a href="https://github.com/flaviocost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Primeira+frase+sobre+voc%C3%AA;Segunda+frase;Terceira+frase" alt="Typing animation" />
 </a>
 
 <br/>
@@ -23,7 +22,7 @@
 ## ✦ Sobre mim
 
 <pre>
-> nome      : Flavio Felipe
+> nome      : Flávio Felipe
 > área      : Desenvolvimento de software
 > linguagem : Java
 > aprendendo: SQL
@@ -117,4 +116,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5AA8,100:0A1F44&height=110&section=footer&text=feito%20com%20caf%C3%A9%20e%20curiosidade&fontSize=16&fontColor=FFFFFF&fontAlignY=70" alt="Rodapé" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5AA8,100:0A1F44&height=110&section=footer&text=Turning%20coffee%20into%20code.&fontSize=16&fontColor=FFFFFF&fontAlignY=70" alt="Rodapé" width="100%" />
