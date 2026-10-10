@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=NOME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&descEngenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Flávio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&descEngenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
 
 <a href="https://github.com/flaviocost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Rumo+a+Engenheiro+de+Software;Escrevo+programas+em+Java;Aprendendo+SQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Engenheiro+de+Software;Escrevo+programas+em+Java;Aprendendo+SQL" alt="Typing animation" />
 </a>
 
 <a href="https://github.com/flaviocost">
@@ -12,8 +12,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=7AA2FF" alt="LinkedIn"/></a>
-<a href="https://instagram.com/flaviocost"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/flavio-felipe-295951246/"><img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=7AA2FF" alt="LinkedIn"/></a>
+<a href="https://instagram.com/_flaviocost"><img src="https://img.shields.io/badge/Instagram-0A1F44?style=for-the-badge&logo=instagram&logoColor=7AA2FF" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=flaviocost&label=Visitas&color=2F5AA8&style=for-the-badge" alt="Visitas"/>
 
 </div>
@@ -23,10 +23,11 @@
 ## ✦ Sobre mim
 
 <pre>
-> nome      : NOME
-> área      : CARGO
+> nome      : Flavio Felipe
+> área      : Desenvolvimento de software
+> linguagem : Java
 > aprendendo: SQL
-> escrevo   : programas em Java
+> objetivo  : Engenheiro de software
 > contato   : LinkedIn ou Instagram, links acima
 </pre>
 
