@@ -64,23 +64,27 @@
 
 <br/>
 
+
 ## ✦ Estatísticas
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&langs_count=4&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&border_color=1E3A6E" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&border_color=1E3A6E" alt="Top Languages" />
+<p align="center">
+  <img width="816" src="https://streak-stats.demolab.com/?user=flaviocost&background=0A1F44&ring=7AA2FF&fire=7AA2FF&currStreakLabel=7AA2FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=1E3A6E" alt="Streak" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=flaviocost&background=0A1F44&ring=7AA2FF&fire=7AA2FF&currStreakLabel=7AA2FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=1E3A6E" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviocost&bg_color=0A1F44&color=7AA2FF&line=7AA2FF&point=FFFFFF&area=true&area_color=2F5AA8&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flaviocost&bg_color=0A1F44&color=7AA2FF&line=7AA2FF&point=FFFFFF&area=true&area_color=2F5AA8&hide_border=true" alt="Activity Graph" />
+</p>
 
 <br/>
 
