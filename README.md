@@ -42,22 +42,12 @@
 
 <br/>
 
-## ✦ Projetos
+## ✦ Estudos
 
 <div align="center">
 
-<a href="https://github.com/flaviocost/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-1&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 1" />
-</a>
-<a href="https://github.com/flaviocost/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-2&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 2" />
-</a>
-
-<a href="https://github.com/flaviocost/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-3&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 3" />
-</a>
-<a href="https://github.com/flaviocost/REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=REPO-4&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="Projeto 4" />
+<a href="https://github.com/flaviocost/java-bank-account">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=java-bank-account&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="java-bank-account" />
 </a>
 
 </div>
