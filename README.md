@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Flávio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&descEngenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
 
 <a href="https://github.com/flaviocost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=560&lines=Desenvolvedor+de+Software;Escrevo+programas+em+Java;Aprendendo+SQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;Java+%7C+SQL+%7C+Linux;Software+n%C3%A3o+se+escreve%2C+se+constr%C3%B3i%3A+tijolo+por+tijolo." alt="Typing animation" />
 </a>
 
 <a href="https://github.com/flaviocost">
