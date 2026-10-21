@@ -26,7 +26,6 @@
 > área      : Desenvolvimento de software
 > linguagem : Java
 > aprendendo: SQL e Linux
-> objetivo  : Engenheiro de software
 > contato   : LinkedIn ou Instagram, links acima
 </pre>
 
@@ -42,17 +41,17 @@
 
 <br/>
 
-## ✦ Estudos
+## ✦ Projetos
 
 <div align="center">
 
-<a href="https://github.com/flaviocost/java-bank-account">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=java-bank-account&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E&v=2" alt="java-bank-account" />
+<a href="https://github.com/flaviocost/email-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=email-bot&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="email-bot" />
 </a>
 
 </div>
 
-<br/>
+<br/>>
 
 
 ## ✦ Estatísticas
