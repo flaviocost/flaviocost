@@ -26,7 +26,6 @@
 > área      : Desenvolvimento de software
 > linguagem : Java
 > aprendendo: SQL e Linux
-> contato   : LinkedIn ou Instagram, links acima
 </pre>
 
 <br/>
