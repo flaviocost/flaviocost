@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Flávio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&descEngenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:2F5AA8&height=210&section=header&text=Fl%C3%A1vio%20Costa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Engenheiro%20de%20Software&descAlignY=60&descSize=18&descColor=FFFFFF" alt="Banner" width="100%" />
 
 <a href="https://github.com/flaviocost">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=7AA2FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;Java+%7C+SQL+%7C+Linux;Software+n%C3%A3o+se+escreve%2C+se+constr%C3%B3i%3A+tijolo+por+tijolo." alt="Typing animation" />
-</a>
-
-<a href="https://github.com/flaviocost">
 </a>
 
 <br/>
@@ -45,23 +42,22 @@
 <div align="center">
 
 <a href="https://github.com/flaviocost/email-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviocost&repo=email-bot&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="email-bot" />
+  <img src="https://SEU-PROJETO.vercel.app/api/pin/?username=flaviocost&repo=email-bot&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="email-bot" />
 </a>
 
 </div>
 
-<br/>>
-
+<br/>
 
 ## ✦ Estatísticas
 
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=flaviocost&show_icons=true&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="GitHub Stats" />
+      <img width="400" src="https://SEU-PROJETO.vercel.app/api?username=flaviocost&show_icons=true&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&icon_color=7AA2FF&border_color=1E3A6E" alt="GitHub Stats" />
     </td>
     <td align="center" valign="middle">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviocost&layout=compact&langs_count=4&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&border_color=1E3A6E" alt="Top Languages" />
+      <img width="400" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=flaviocost&layout=compact&langs_count=4&card_width=400&bg_color=0A1F44&title_color=7AA2FF&text_color=C9D1D9&border_color=1E3A6E" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -94,7 +90,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/flavio-felipe-295951246/"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/flavio-felipe-295951246/"><img src="https://img.shields.io/badge/LinkedIn-2F5AA8?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
 <a href="https://instagram.com/_flaviocost"><img src="https://img.shields.io/badge/Instagram-2F5AA8?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
 
 </div>
